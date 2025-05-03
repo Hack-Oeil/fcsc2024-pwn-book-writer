@@ -27,12 +27,12 @@ Fichiers :
 > http://localhost
 
 #### tentez 
-> nc book-writer.cyrhades.fr:4000
+> nc book-writer.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
